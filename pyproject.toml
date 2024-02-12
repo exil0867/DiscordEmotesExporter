@@ -9,7 +9,7 @@ readme = "README.md"
 python = "3.11.6"
 "discord.py-self" = "2.0.0"
 python-dotenv = "1.0.0"
-python-slugify = "8.0.1"
+python-slugify = "8.0.4"
 
 
 [build-system]
